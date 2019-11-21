@@ -76,17 +76,17 @@ namespace MyFootballApi.Controllers
         // POST: api/Teams
         [HttpPost]
         [Authorize(Roles = "administrator")]
-        public bool PostTeam([FromBody] Team team)
+        public async Task<IActionResult> PostTeam([FromBody] Team team)
         {
             if (!ModelState.IsValid)
             {
-                //return BadRequest(ModelState);
+                return BadRequest(ModelState);
             }
 
             //await
             _context.team.Add(team);
 
-            return true;
+            return CreatedAtAction("GetTeam", new { id = team.id }, team);
         }
 
         // DELETE: api/Teams/5
