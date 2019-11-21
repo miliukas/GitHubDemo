@@ -14245,11 +14245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ernestukas\\Documents\\GitHub\\myFootballApi\\MyFootballApi\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Ernestukas\\Documents\\GitHub\\GitHubDemo\\MyFootballApi\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\Ernestukas\\Documents\\GitHub\\myFootballApi\\MyFootballApi\\Tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\Ernestukas\\Documents\\GitHub\\GitHubDemo\\MyFootballApi\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\Ernestukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ernestukas\\Documents\\GitHub\\myFootballApi\\MyFootballApi\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\Ernestukas\\Documents\\GitHub\\GitHubDemo\\MyFootballApi\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14268,8 +14268,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Ernestukas\\Documents\\GitHub\\myFootballApi\\MyFootballApi\\MyFootballApi\\MyFootballApi.csproj": {
-              "projectPath": "C:\\Users\\Ernestukas\\Documents\\GitHub\\myFootballApi\\MyFootballApi\\MyFootballApi\\MyFootballApi.csproj"
+            "C:\\Users\\Ernestukas\\Documents\\GitHub\\GitHubDemo\\MyFootballApi\\MyFootballApi\\MyFootballApi.csproj": {
+              "projectPath": "C:\\Users\\Ernestukas\\Documents\\GitHub\\GitHubDemo\\MyFootballApi\\MyFootballApi\\MyFootballApi.csproj"
             }
           }
         }
